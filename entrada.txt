@@ -1,0 +1,7 @@
+PROGRAM PRUEBA
+A = 5
+B = A + 3
+IF (A .EQ. B) THEN
+    B = B + 1
+ENDIF
+END
